@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b53385b2-f4af-4532-8dfb-d55444359aee/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/word-beacon",
+    "appService.deploySubpath": "."
+}

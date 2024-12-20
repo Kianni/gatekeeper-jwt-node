@@ -1,0 +1,25 @@
+{
+  "name": "popcharticles",
+  "version": "1.0.0",
+  "description": "- Set up the project environment: Node.js, MongoDB, and Guardian API integration.\r - Implement basic user authentication (registration and login/logout).\r - Create MongoDB schemas for users, searches, and visualizations.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.3"
+  }
+}
